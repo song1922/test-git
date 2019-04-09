@@ -23,3 +23,6 @@ class DivTest(unittest.TestCase):
 
     def test_div_005(self):
         self.assertEqual(3, 3)
+		
+	def test_div_005(self):
+        self.assertEqual(3, 3)
